@@ -1,8 +1,8 @@
-<h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> , I'm Ilya</h1>
+<h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> , I'm Vadim</h1>
 <h3 align="center">I am a front-end developer</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/chepelove/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://t.me/chepe1ove"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  <a href="https://www.linkedin.com/in/telonasport/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://t.me/displayfleh"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
 
 <h3 align="center">About me</h3>
@@ -28,6 +28,6 @@
 
 <h3 align="center">My stats</h3>
 <div align="center">
-<img alt="TopLangs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chepeLove&theme=tokyonight"/>
-<img alt="TopCommit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chepeLove&theme=tokyonight"/>
+<img alt="TopLangs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=telonasport99&theme=tokyonight"/>
+<img alt="TopCommit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=telonasport99&theme=tokyonight"/>
 </div>
